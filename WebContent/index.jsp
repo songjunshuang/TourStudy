@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Insert title here</title>
+<title>研学旅行网站</title>
 </head>
 <body>
-	欢迎
+	<a href="privateInfo.jsp">进入登录页面</a>
 </body>
 </html>
